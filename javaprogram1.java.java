@@ -8,7 +8,7 @@ public class javaprogram1 {
 		char c;
 		for (int i = a.length() - 1; i >= 0; i--) {
 			c = a.charAt(i);
-			b += c;
+			b += c;  hi bro how are you
 		}
 		System.out.println("original String :" + a);
 		System.out.println("Reverse :" + b);
